@@ -1,0 +1,8 @@
+resolver: lts-6.1
+
+packages:
+- .
+- ../reified-bindings
+
+extra-deps:
+- reified-bindings-0.0.0

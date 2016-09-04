@@ -43,7 +43,7 @@ library
 
              , reified-bindings
 
-               
+
 executable example-reified-bindings
  hs-source-dirs:      executables
  main-is:             Main.hs
